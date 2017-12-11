@@ -1,0 +1,14 @@
+.gradle/
+owner.iml
+local.properties
+.idea/
+app/app.iml
+build
+gradle
+app/build
+app/gradle
+app/gradlew.bat
+app/gradlew
+app/local.properties
+gradlew.bat
+gradlew
